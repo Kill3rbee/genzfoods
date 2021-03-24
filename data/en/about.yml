@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : We're Creative
+    content : We are a one stop point for food service and industrial clients globally looking for innovative ingredients and value added, plant-based food solutions. GEN-Z Food Ingredients has partnered with key plant-based suppliers to offer a range of value-added plant-based cheeses, meat, and flours.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : We're Professional
+    content : Something here or we can remove it.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : We're Genius
+    content : Something here or remove it.
